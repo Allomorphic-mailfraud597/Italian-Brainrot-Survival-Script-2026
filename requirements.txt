@@ -1,0 +1,7 @@
+pillow
+tqdm
+pynput
+scipy
+pygetwindow
+rich
+keyboard
